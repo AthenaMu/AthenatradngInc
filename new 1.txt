@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Athena Trading Inc.</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #004080; color: white; padding: 20px; text-align: center; }
+        nav { text-align: center; padding: 10px; background: #f4f4f4; }
+        nav a { margin: 10px; text-decoration: none; color: #004080; font-weight: bold; }
+        section { padding: 20px; max-width: 1000px; margin: auto; }
+        footer { background: #004080; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+        .logo { max-width: 150px; display: block; margin: 0 auto 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="new-logo.png" alt="Athena Trading Inc. Logo" class="logo">
+        <h1>Athena Trading Inc.</h1>
+        <p>Importing Excellence in Beauty Equipment</p>
+    </header>
+    
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Products & Services</a>
+        <a href="#why">Why Choose Us?</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+    
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Athena Trading Inc. was founded in 2017 with the mission of providing high-quality beauty equipment to salons and barbershops across the U.S. We specialize in importing top-tier products from Hong Kong, Taiwan, China, and Europe.</p>
+    </section>
+    
+    <section id="services">
+        <h2>Products & Services</h2>
+        <ul>
+            <li>Salon and barber chairs</li>
+            <li>Cosmetics and beauty tools</li>
+            <li>Consulting for salon and barbershop setups</li>
+            <li>Customized equipment sourcing</li>
+        </ul>
+    </section>
+    
+    <section id="why">
+        <h2>Why Choose Us?</h2>
+        <p>With years of experience in the beauty industry, Athena Trading Inc. is dedicated to offering premium products, exceptional customer service, and industry expertise to help your business thrive.</p>
+    </section>
+    
+    <section id="testimonials">
+        <h2>Client Testimonials</h2>
+        <p>"Athena Trading Inc. provided us with the best equipment and helped set up our salon efficiently! Highly recommend!" - Jane D.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@athenatrading.com</p>
+        <p>Address: 123 Business Avenue, New York, NY</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Athena Trading Inc. All rights reserved.</p>
+    </footer>
+</body>
+</html>
